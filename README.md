@@ -39,3 +39,8 @@ OOP
   - 방패: 공격을 받았을 때 hp 대신 소진된다. 6개의 방패가 있으면 추가되지 않고 무시된다.
   - 해골: 자신을 공격하여 방패나 hp를 1만큼 소진한다.
   - 공격: 상대를 공격하여 방패나 hp를 1만큼 소진한다.
+
+#Infra Requirements
+1. python2.3.5
+2. supported OS: macOS, windows, linux, ubuntu
+3. CLI based
